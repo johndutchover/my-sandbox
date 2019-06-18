@@ -1,4 +1,2 @@
 my-sandbox
 ==========
-
-First repository
